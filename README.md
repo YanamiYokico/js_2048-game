@@ -8,3 +8,20 @@ Design based on the already created game [here](https://play2048.co)
 - HTML5
 - CSS3 / SCSS
 - JavaScript (ES6+)
+# How to run the project
+### Step 1: Clone the repository
+```
+git clone https://github.com/YanamiYokico/js_2048-game.git
+```
+### Step 2: Navigate into the project folder
+```
+cd js_2048-game
+```
+### Step 3: Install dependencies
+```
+npm install
+```
+### Step 4: Run the project locally
+```
+npm start
+```
